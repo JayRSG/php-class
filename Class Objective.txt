@@ -8,3 +8,6 @@ check
 Q/A
 
 Created a github repository and did the first commmit
+
+
+https://getbootstrap.com/docs/4.4/components/pagination/
