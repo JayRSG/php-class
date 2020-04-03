@@ -6,3 +6,5 @@ Passing data from sever to client and vice versa
 GITHUB
 check
 Q/A
+
+Created a github repository and did the first commmit
